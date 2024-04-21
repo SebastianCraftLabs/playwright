@@ -13,6 +13,10 @@ npm install playwright
 
 This command will install Playwright along with its dependencies in your project.
 
+You can run the test with following commands.
+ npx playwright test --ui
+ or
+ npx playwright test
 
 Explanation of Code
 
